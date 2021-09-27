@@ -86,7 +86,7 @@ header {
 
 /* Hero Style Start */
   .hero {
-background-image: url("../images/hero-bg.jpeg");
+background-image: url("..assets/images/hero-bg.jpeg");
 height: 600px;
 background-size: cover;
 background-position: center;
@@ -244,15 +244,7 @@ margin-top: 10px;
   width: 65%;
 }
 
-.text-left {
 
-  text-align: left;
-}
-
-.text-right {
-
-  text-align: right;
-}
 
 .trainer-bio h3 {
   font-size: 32px;
@@ -272,7 +264,15 @@ margin-top: 10px;
   color: #fce138;
 }
 
+.text-left {
 
+  text-align: left;
+}
+
+.text-right {
+
+  text-align: right;
+}
 
 .contact {
   color: teal ;
@@ -321,3 +321,4 @@ margin-top: 10px;
 }
 
 /* REACH OUT STYLES END */
+
