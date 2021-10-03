@@ -86,7 +86,7 @@ header {
 
 /* Hero Style Start */
   .hero {
-background-image: url("../images/500-hero-mock-up.jpg");
+background-image: url("../images/flipped-hero-image.jpg");
 height: 600px;
 background-size: cover;
 background-position: center;
