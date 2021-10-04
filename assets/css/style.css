@@ -295,11 +295,12 @@ width: 100%;
 
 .trainer {
 
-  width: 900px;
-  margin: 0 auto 30px auto;
+  
+  margin: 0 auto 20px auto;
   background: #024e76;
   color: #fce138;
-  overflow: auto;
+  flex: 1;
+  
 
 }
 
@@ -309,9 +310,8 @@ width: 100%;
 }
 
 .trainer-bio {
-  padding: 35px;
-  float: left;
-  width: 65%;
+  padding: 25px;
+
   line-height: 1.3;
 }
 
